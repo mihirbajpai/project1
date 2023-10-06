@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mihir Bajpai</string>
+    <string name="mihir_bajpai">Mihir Bajpai</string>
+    <string name="enter_your_message">Enter Your Message</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="send">Send</string>
+</resources>
